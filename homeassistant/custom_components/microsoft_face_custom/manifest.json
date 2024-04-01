@@ -5,4 +5,5 @@
   "dependencies": ["camera"],
   "documentation": "https://www.home-assistant.io/integrations/microsoft_face",
   "iot_class": "cloud_push"
+  "version_number": "1.00"
 }
