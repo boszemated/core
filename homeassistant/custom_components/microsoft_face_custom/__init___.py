@@ -35,7 +35,7 @@ DATA_MICROSOFT_FACE = "microsoft_face"
 DEFAULT_TIMEOUT = 10
 DOMAIN = "microsoft_face"
 
-FACE_API_URL = "api.cognitive.microsoft.com/face/v1.0/{0}"
+FACE_API_URL = "api.cognitiveservices.azure.com/{0}"
 
 SERVICE_CREATE_GROUP = "create_group"
 SERVICE_CREATE_PERSON = "create_person"
