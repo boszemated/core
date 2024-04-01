@@ -1,5 +1,5 @@
 {
-  "domain": "microsoft_face",
+  "domain": "microsoft_face_custom",
   "name": "Microsoft Face",
   "codeowners": [],
   "dependencies": ["camera"],
